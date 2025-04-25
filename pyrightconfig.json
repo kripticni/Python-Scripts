@@ -1,0 +1,23 @@
+{
+  "include": [
+    "ICO",
+    "Machine-Learning",
+    "petlja-kamp",
+    "study"
+  ],
+
+  "reportMissingImports": "error",
+  "reportMissingTypeStubs": false,
+  "reportWildcardImportFromLibrary": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownMemberType": false,
+  "reportAttributeAccessIssue": false,
+  "reportOptionalMemberAccess": false,
+  "reportMissingParameterType": false,
+  "reportUnknownParameterType": false,
+  "reportAny": false,
+
+  "pythonVersion": "3.12.9",
+  "pythonPlatform": "Linux",
+}
