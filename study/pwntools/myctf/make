@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+gcc server.c -O0 -fno-stack-protector -fno-toplevel-reorder -no-pie -o server -g
